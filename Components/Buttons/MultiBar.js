@@ -1,4 +1,3 @@
-import { React } from 'react';
 export default function MultiBar() {
 	const Tab =
 		React.useRef <
